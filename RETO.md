@@ -1,6 +1,6 @@
 # 🚀 Sideproject — Calidad de datos
 
-**Repositorio:** `sideproject-calidad-de-datos` · **Tipo:** ETL (limpieza) · **Tiempo:** 6–8 h · **Después de:** lecciones 1 a 5 de esta carpeta
+**Repositorio:** `sideproject-calidad-de-datos` · **Tipo:** ETL (limpieza) · **Tiempo:** 6–8 h · **Después de:** lecciones 1 a 5 de esta sección
 
 > Reglas, README y lista de cierre: [`SIDEPROJECTS.md`](docs/REGLAS.md). **No hay solución: el diseño es tuyo.**
 
@@ -48,4 +48,4 @@ El script que generó estos datos no está en este repositorio a propósito: enc
 ## Súbelo de nivel
 
 - Columna `monto_usd` con el tipo de cambio de tu sideproject de ingesta (resuelve los fines de semana).
-- Reglas definidas como datos (YAML), no como código. Compáralo con `02_retos_practicos/reto_13`.
+- Reglas definidas como datos (YAML), no como código. Compáralo con `04_retos_de_python/reto_13`.

@@ -2,7 +2,7 @@
 
 > Diagnóstico y limpieza de un extracto bancario con más de diez tipos de defecto, con cada decisión documentada.
 
-**Estado:** 🚧 sin empezar · **Tipo:** ETL (limpieza) · **Módulo del programa:** 06/02 · Limpieza y eficiencia
+**Estado:** 🚧 sin empezar · **Tipo:** ETL (limpieza) · **Módulo del programa:** 05/02 · Limpieza y eficiencia
 
 ## La problemática
 
